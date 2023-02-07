@@ -1,6 +1,6 @@
 {
-  "name": "grapesjs-plugin-forms",
-  "version": "2.0.5",
+  "name": "grapesjs-custom-plugin-forms",
+  "version": "1.0.0",
   "description": "Set of forms components and blocks for GrapesJS editor",
   "main": "dist/index.js",
   "files": [
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/artf/grapesjs-plugin-forms.git"
+    "url": "https://github.com/harryandriyan/grapesjs-custom-plugin-forms"
   },
   "keywords": [
     "grapesjs",
@@ -20,7 +20,7 @@
     "form",
     "builder"
   ],
-  "author": "Artur Arseniev",
+  "author": "Harry Andriyan",
   "license": "BSD-3-Clause",
   "devDependencies": {
     "grapesjs": "^0.19.5",
